@@ -8,8 +8,8 @@ There is no limit of the instances you can run just make sure to change the prof
 - Microsoft Teams
 
 ## Usage
-Before running make sure Teams is already installed <br>
+! Before running make sure Teams is already installed !<br>
 Run the script below through PowerShell :
 ### Script
-$ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/emiljano-doda/MSTeamsDuplicator/master/MSTeamsDuplicator.ps1
+$ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/emiljano-doda/MSTeamsDuplicator/master/MSTeamsDuplicator.ps1<br>
 Invoke-Expression $($ScriptFromGitHub.Content)
