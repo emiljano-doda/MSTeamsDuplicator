@@ -7,7 +7,7 @@ What this script does it basically creates a new profile (Named by default : New
 - Microsoft Teams
 
 # Usage
-Run the script the script below through PowerShell :
+Run the script below through PowerShell :
 # Script
 $ScriptFromGitHub = Invoke-WebRequest https://raw.githubusercontent.com/emiljano-doda/MSTeamsDuplicator/master/MSTeamsDuplicator.ps1
 Invoke-Expression $($ScriptFromGitHub.Content)
