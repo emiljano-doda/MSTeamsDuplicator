@@ -5,7 +5,7 @@ What this script does it basically creates a new profile (Named by default : New
 # Requirements
 - Windows
 - Microsoft Teams
-- 
+
 # Usage
 Run the script the script below through PowerShell :
 # Script
