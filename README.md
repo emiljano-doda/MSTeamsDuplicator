@@ -11,4 +11,6 @@ There is no limit of the instances you can run just make sure to change the prof
 ! Before running make sure Teams is already installed !<br>
 Run the script below through PowerShell :
 ### Script
+```
 iwr -useb https://raw.githubusercontent.com/emiljano-doda/MSTeamsDuplicator/master/MSTeamsDuplicator.ps1 | iex
+```
